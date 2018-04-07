@@ -3,3 +3,6 @@
 ################################################################################
 
 /SQLBuilder/.vs/SQLBuilder/v15/Server/sqlite3
+/SQLBuilder/obj/Debug
+/SQLBuilder/bin/Debug
+/SQLBuilder/.vs/SQLBuilder/v15
